@@ -1,0 +1,28 @@
+{
+  "themes": 
+      [
+          {
+              "name": "Nord",
+              "tab": 
+              {
+                  "background": "#434c5eFF",
+                  "iconStyle": "default",
+                  "showCloseButton": "always",
+                  "unfocusedBackground": null
+              },
+              "tabRow": 
+              {
+                  "background": "#2E3440FF",
+                  "unfocusedBackground": "#3b4252FF"
+              },
+              "window": 
+              {
+                  "applicationTheme": "dark",
+                  "experimental.rainbowFrame": false,
+                  "frame": null,
+                  "unfocusedFrame": null,
+                  "useMica": false
+              }
+          }
+      ]
+}
